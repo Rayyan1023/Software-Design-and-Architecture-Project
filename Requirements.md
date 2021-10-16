@@ -4,5 +4,5 @@
 * Account System - A system which allows to make accounts, so they utilize the services provided in the website
  
 # Non-functional Requirements
+* Website should be appealing and user friendly to attract attention and increase traffic flow
 * 
-*
