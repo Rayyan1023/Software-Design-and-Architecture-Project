@@ -8,4 +8,4 @@
 * Security - Database should be secure so there are no leaks of user account information
 * Scalability - Database should be upgradeable if user account capacity increases
 * Performance - Website should be responisve and respond to user input within >100 ms
-* 
+
