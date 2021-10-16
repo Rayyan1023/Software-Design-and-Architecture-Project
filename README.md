@@ -2,5 +2,5 @@
 ## Course Group 6
 ### Rayyan Mohammed (100752351)
 ### Daniyal Khan ()
-### Mohammed Khalid ()
+### Muhammad Khalid (100746801)
 ### Juan ()
