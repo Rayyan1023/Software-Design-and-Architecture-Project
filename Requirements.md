@@ -5,5 +5,5 @@
  
 # Non-functional Requirements
 * Performance - Website should be appealing and user friendly to attract attention and increase traffic flow
-* Security - Databse should be secure so there are no leaks of user account information
+* Security - Database should be secure so there are no leaks of user account information
 * 
