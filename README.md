@@ -8,7 +8,7 @@
 ## Project Description
 The goal of this project is to show how to develop a software architecture for a theatre booking system using a systematic set of procedures. Attribute Driven Design (ADD) is the design approach we will be using. The online theatre booking is going to be an accessible tool to allow users to book seating and reserve movies, it will allow our partners to advertise their products as well as allow us to better service our customers. 
 
-
+## Table of Contents
 ### Project Proposal
 [Requirements](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Requirements.md)
 
