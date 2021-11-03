@@ -1,4 +1,4 @@
-# Software-Design-and-Architecture-Project
+# CINEMAPLEX
 ## Course Group 6
 #### Rayyan Mohammed (100752351)
 #### Daniyal Khan (100750029)
