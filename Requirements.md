@@ -21,10 +21,9 @@
   - The system should be able to operate on any web browser, regardles of the hardware type (Desktop, laptop, smartphone, etc), or Operating Software (Windows, IOS, Linux, etc).
   - The system should flawlessly be able to communicate with the database and make queries with no delay
 * Modifiability
-  - The system shall 
-  -
+  - The system should be designed in a way where changes can be made easily and will not affect the overall structure of the system
 * Testability
-  - 
+  - ``
   -
 * Usability
   - The system shall be easy to use and user friendly
