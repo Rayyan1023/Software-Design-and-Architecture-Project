@@ -35,8 +35,8 @@
 * Modifiability
   - The system should be designed in a way where changes can be made easily and will not affect the overall structure of the system
 * Testability
-  - ``
-  -
+  - System should be thorughly tested to find all possible bugs and record them to have them properly addressed.
+  - System should be heavily tested by users before the Big Design Up Front is presented
 * Usability
   - The system shall be easy to use and user friendly
   - The system must support several languages.
