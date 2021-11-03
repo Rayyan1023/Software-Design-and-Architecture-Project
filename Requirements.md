@@ -1,7 +1,19 @@
 # Functional Requirements
-* Database - Database to record users that have an account on the website for the service providers   
-* Online Paying  Platform - Payment platforms connected to the website so users can pay for the services they use.
-* Account System - A system which allows to make accounts, so they utilize the services provided in the website
+* Database 
+  - The database will record users that have an account on the website for the service providers. 
+  - The database will be used to store the information of the users when purchasing a movie. 
+  - A conformation email will be sent to the user once they have bought a ticket.
+  - The database keeps track of spots avaiable for a specfic movie   
+  
+* Online Paying Platform 
+  - Payment platforms connected to the website so users can pay for the services they use. 
+  - The credit card companies will display their methods of payments by allowing you to choose credit or debit.
+  - There will be a two-step verification when purchasing a movie ticket  
+  
+* Account System 
+  - A system which allows to make accounts, so they utilize the services provided in the website
+  - There will be a sign-up/login section where it allows you to make an account specific for our website.
+  - When the user creates an account they will be provided with special deals and discounts as they collect rewards by purchasing more movies.
  
 # Non-functional Requirements
 * Performance 
