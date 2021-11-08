@@ -1,4 +1,4 @@
-# <h1 align="center" CINEMAPLEX</h1>
+<h1 align="center" CINEMAPLEX</h1>
 ## Course Group 6
 #### Rayyan Mohammed (100752351)
 #### Daniyal Khan (100750029)
