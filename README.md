@@ -10,11 +10,15 @@ The goal of this project is to show how to develop a software architecture for a
 
 ## Table of Contents
 ### Project Proposal
-[Requirements](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Requirements.md)
+[Requirements](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Project%20Proposal/Requirements.md)
 
 ### Progress Report
-[Use Case Model FCAPS System](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Use%20Case%20Model/Use%20Case%20Model%20FCAPS%20System.png)
+[Use Case Model FCAPS System](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Progress%20Report/Use%20Case%20Model%20FCAPS%20System.png)
 
-[Use Case Model Description Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Use%20Case%20Model/Use%20Case%20Description%20Table.pdf)
+[Use Case Model Description Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Progress%20Report/Use%20Case%20Description%20Table.pdf)
 
-[Constraints Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Use%20Case%20Model/Constraints%20Table.pdf)
+[Quality Attributes Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Progress%20Report/Quality%20Attributes%20Table.pdf)
+
+[Constraints Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Progress%20Report/Constraints%20Table.pdf)
+
+
