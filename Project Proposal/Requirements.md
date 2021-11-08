@@ -2,9 +2,9 @@
 * Database 
   - The database will record users that have an account on the website for the service providers. 
   - The database will be used to store the information of the users when purchasing a movie. 
-  - A conformation email will be sent to the user once they have bought a ticket.
-  - The database keeps track of spots avaiable for a specfic movie   
-  
+  - A confirmation email will be sent to the user once they have bought a ticket.
+  - The database keeps track of spots available for a specfic movie   
+  i
 * Online Paying Platform 
   - Payment platforms connected to the website so users can pay for the services they use. 
   - The credit card companies will display their methods of payments by allowing you to choose credit or debit.
@@ -19,7 +19,7 @@
 * Performance 
   - The product will take some time to load at first, depending on the strength of the internet connection and the media from which it is run.
   - Website should be appealing and user friendly to attract attention and increase traffic flow
-  - Website should be responisve and respond to user input within >100 ms
+  - Website should be responsive and respond to user input within >100 ms
   
 * Security
   - Database should be secure so there are no leaks of user account information
@@ -33,19 +33,19 @@
   - Backups of the database should be obtained from the server and stored by the administrator in the event of a hardware failure or database damage. The service will be resumed after that.
   
 * Interoperability
-  - The system should be able to operate on any web browser, regardles of the hardware type (Desktop, laptop, smartphone, etc), or Operating Software (Windows, IOS, Linux, etc).
+  - The system should be able to operate on any web browser, regardless of the hardware type (Desktop, laptop, smartphone, etc), or Operating Software (Windows, IOS, Linux, etc).
   - The system should flawlessly be able to communicate with the database and make queries with no delay
   
 * Modifiability
   - The system should be designed in a way where changes can be made easily and will not affect the overall structure of the system
   
 * Testability
-  - System should be thorughly tested to find all possible bugs and record them to have them properly addressed.
+  - System should be thoroughly tested to find all possible bugs and record them to have them properly addressed.
   - System should be heavily tested by users before the Big Design Up Front is presented
   
 * Usability
   - The system shall be easy to use and user friendly
   - The system must support several languages.
-  - The system shall provide accesibility for handicap personel.
+  - The system shall provide accessibility for handicap personel.
 
 
