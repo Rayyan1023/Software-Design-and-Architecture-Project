@@ -32,8 +32,9 @@ The goal of this project is to show how to develop a software architecture for a
 
 [Step 5: Instantiate architectural lements, allocate responsibilities, and define interfaces](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%205%20Instantiate%20architectural%20elements%2C%20allocate%20responsibilities%2C%20and%20define%20interfaces%20.png)  
 
-[Step 6: Sketch views and record design decisions](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%206%20Sketch%20views%20.png)
+[Step 6: Sketch views](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%206%20Sketch%20views%20.png)
 
+[Step 6: Record Design Decisions](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%206%20Record%20design%20decisions.png)
 
 
 
