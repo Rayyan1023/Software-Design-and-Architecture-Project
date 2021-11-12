@@ -30,7 +30,9 @@ The goal of this project is to show how to develop a software architecture for a
 
 [Step 4: Design Concepts that Satisfy Selected Drivers](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%204%20Choose%20one%20or%20more%20design%20concepts%20that%20satisfy%20the%20selected%20drivers%20.png)
 
-[Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%205%20Instantiate%20architectural%20elements%2C%20allocate%20responsibilities%2C%20and%20define%20interfaces%20.png)  
+[Step 5: Instantiate architectural lements, allocate responsibilities, and define interfaces](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%205%20Instantiate%20architectural%20elements%2C%20allocate%20responsibilities%2C%20and%20define%20interfaces%20.png)  
+
+[Step 6: Sketch views and record design decisions](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%206%20Sketch%20views%20.png)
 
 
 
