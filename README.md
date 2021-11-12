@@ -21,4 +21,18 @@ The goal of this project is to show how to develop a software architecture for a
 
 [Constraints Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Progress%20Report/Constraints%20Table.pdf)
 
+### Design Process
+[ADD Step 1](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/ADD%20step%201%20Review%20inputs.png)
+#### Iteration 1:
+[Step 2: Establish Iteration Goal by Selecting Drivers](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%202%20Establish%20iteration%20goal%20by%20selecting%20drivers.png)
+
+[Step 3: Refining Elements](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%203%20Choose%20one%20or%20more%20elements%20of%20the%20system%20to%20refine.png)
+
+[Step 4: Design Concepts that Satisfy Selected Drivers](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%204%20Choose%20one%20or%20more%20design%20concepts%20that%20satisfy%20the%20selected%20drivers%20.png)
+
+[Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%205%20Instantiate%20architectural%20elements%2C%20allocate%20responsibilities%2C%20and%20define%20interfaces%20.png)  
+
+
+
+
 
