@@ -18,3 +18,7 @@ In this Security scenario, the Database Server, Application Server, Time Server 
 Sequence Diagram displaying the error messages
 
 ## Step 7: Perform analysis of current design and review iteration goal and achievement of design purpose 
+The status of the various drivers, as well as the decisions taken throughout the iteration, are summarised in the table below. The table has been cleared of drivers that were fully addressed in the previous edition.
+
+![image](https://user-images.githubusercontent.com/80918937/144768202-3a79a46b-8aba-4782-bc48-36f3991368fa.png)
+
