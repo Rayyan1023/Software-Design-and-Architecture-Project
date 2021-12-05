@@ -4,7 +4,7 @@
   - The database will be used to store the information of the users when purchasing a movie. 
   - A confirmation email will be sent to the user once they have bought a ticket.
   - The database keeps track of spots available for a specfic movie   
-  i
+  
 * Online Paying Platform 
   - Payment platforms connected to the website so users can pay for the services they use. 
   - The credit card companies will display their methods of payments by allowing you to choose credit or debit.
