@@ -1,4 +1,4 @@
-## Iteration 1: Establishing an overall system structure
+# Iteration 1: Establishing an overall system structure
 ### Steps 2: Establish iteration goal by selecting drivers
 Our iteration goal is to create an overall system structure that implements all our needs. Our drivers for this goal are:
 - QA-2: Security
