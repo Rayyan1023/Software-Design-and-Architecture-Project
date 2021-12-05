@@ -30,6 +30,10 @@ Sequence diagram for UC-2 (Key: UML)
 Sequence diagram for UC-5 (Key: UML)
 
 ## Step 7: Perform analysis of current design and review iteration goal and achievement of design purpose 
+The selections taken in this iteration offered a basic grasp of how the system's functionality is supported. The architect defined the modules connected with the core use cases, while the team members identified the modules linked with the remaining functionality.
+
+![image](https://user-images.githubusercontent.com/80918937/144767755-fe6261f0-a6c2-42c6-8110-3ebda9cc2d8b.png)
+
 
 
 
