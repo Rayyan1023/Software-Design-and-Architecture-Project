@@ -24,7 +24,7 @@ The goal of this project is to show how to develop a software architecture for a
 ### Design Process
 [ADD Step 1](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/ADD%20step%201%20Review%20inputs.png)
 ## Iteration 1:
-[Step 2: Establish Iteration Goal by Selecting Drivers](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%202%20Establish%20iteration%20goal%20by%20selecting%20drivers.png)
+Establish Iteration Goal by Selecting Drivers
 
 [Step 3: Refining Elements](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201:%20Establishing%20an%20overall%20system%20structure/Step%203%20Choose%20one%20or%20more%20elements%20of%20the%20system%20to%20refine.png)
 
