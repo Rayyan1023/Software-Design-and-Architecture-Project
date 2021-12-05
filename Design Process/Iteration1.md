@@ -14,3 +14,11 @@ Because of the nature of our application. It is important to refine all of the F
 
 ### Step 4: Choose one or more design concepts that satisfy the selected drivers 
 ![5](https://user-images.githubusercontent.com/80918937/144764503-3f8eb7f8-2d9f-48ca-84b2-31280fa6a885.png)
+
+### Step 5: Instantiate architectural elements, allocate responsibilities, and define interfaces 
+![image](https://user-images.githubusercontent.com/80918937/144764546-0b296967-9827-4c11-868b-86890fa6c44c.png)
+
+### Step 6: Sketch views and record design decisions
+![image](https://user-images.githubusercontent.com/80918937/144764629-f9e1407c-a23b-428a-a3ef-ecc4a6438eb4.png)
+
+### Step 7: Perform analysis of current design and review iteration goal and achievement of design purpose 
