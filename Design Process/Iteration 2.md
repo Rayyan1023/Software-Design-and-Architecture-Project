@@ -22,12 +22,12 @@ Modules that support the primary use cases (Key: UML)
 ### UC-2: Account System:
 ![image](https://user-images.githubusercontent.com/80918937/144765219-3038980c-3cea-4636-aa03-b7d49deed62a.png)
 
-Sequence diagram for use case UC-2 (Key: UML)
+Sequence diagram for UC-2 (Key: UML)
 
 ### UC-5: Payment Method:
 ![image](https://user-images.githubusercontent.com/80918937/144765404-3c0b7126-67a8-4b5e-a67d-54d6a8103b80.png)
 
-Sequence diagram for use case UC-5 (Key: UML)
+Sequence diagram for UC-5 (Key: UML)
 
 ## Step 7: Perform analysis of current design and review iteration goal and achievement of design purpose 
 
