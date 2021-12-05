@@ -22,7 +22,7 @@ The goal of this project is to show how to develop a software architecture for a
 [Constraints Table](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Progress%20Report/Constraints%20Table.pdf)
 
 ## Design Process
-### [ADD Step 1](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/ADD%20step%201%20Review%20inputs.png)
+### [ADD Step 1](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/ADD%20Step%201.md)
 
 ### [Iteration 1](https://github.com/Rayyan1023/Software-Design-and-Architecture-Project/blob/main/Design%20Process/Iteration%201.md)
 
