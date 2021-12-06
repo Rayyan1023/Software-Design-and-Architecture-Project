@@ -22,3 +22,19 @@ The status of the various drivers, as well as the decisions taken throughout the
 
 ![image](https://user-images.githubusercontent.com/80918937/144768202-3a79a46b-8aba-4782-bc48-36f3991368fa.png)
 
+## Summary
+In this report we went through all three iterations of the initial design round of ADD. We 
+went through this process for our theatre booking system in order to address functionality, 
+general concern, and key quality attribute scenarios. In the first iteration, drivers including
+security, usability performance, and testability were selected to establish the goal of this 
+iteration. Some of these drivers were then passed down to the next steps to be refined 
+and design concepts were also selected to satisfy the refined drivers. In the last steps of the
+iteration, an analysis was performed on goals and design purpose to see which decisions were
+made during the iteration. Following this process allowed us to address architectural concerns, 
+primary use cases, and quality attribute scenarios as part of architectural design. By going
+through these iterations, it allowed us to better plan out the process of developing this system.
+It also allowed us to clearly see which quality scenario drivers and which design concepts to
+focus on and refine. UML was used as it is assumed that there would be an architect using a
+CASE tool while designing the system. 
+
+
