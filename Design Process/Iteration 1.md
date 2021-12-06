@@ -20,6 +20,8 @@ Because of the nature of our application. It is important to refine all of the F
 
 ## Step 6: Sketch views and record design decisions
 ![image](https://user-images.githubusercontent.com/80918937/144764629-f9e1407c-a23b-428a-a3ef-ecc4a6438eb4.png)
+![image](https://user-images.githubusercontent.com/80918937/144929639-7c2ffcfa-b002-416c-a9b9-a5033366f7dc.png)
+
 
 ## Step 7: Perform analysis of current design and review iteration goal and achievement of design purpose 
 ![image](https://user-images.githubusercontent.com/80918937/144766963-edebf767-d2b0-4b17-abd5-22dc4317c85a.png)
